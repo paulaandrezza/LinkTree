@@ -68,6 +68,8 @@ main {
   justify-content: center;
   align-items: center;
   cursor: pointer;
+
+  transition: background-color 1s;
 }
 
 .social-media li:hover {
@@ -95,6 +97,8 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
+
+  transition: background-color 1s;
 }
 
 .switcher ion-icon {
